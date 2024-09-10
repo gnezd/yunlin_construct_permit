@@ -1,0 +1,1819 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><table id="AjaxTableid" class="table">
+<thead><tr>
+<th class="text-center" style="">序號</th>
+<th class="sort" style="width: 20%">執照號碼</th>
+<th class="sort" style="width: 30%">起造人</th>
+<th class="sort" style="width: 7%">設計人</th>
+<th class="sort" style="width: 25%">建築地址</th>
+<th class="sort" style="width: 8%">核發日期</th>
+<th class="sort" style="width: 5%">檢視</th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">1</td>
+<input type="HIDDEN" id="P_0_Row_MainTain_Type" name="P_0_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(107)斗南營建字第00031-01號</span></td>
+<td data-name="起造人">鼎O畜產科技有限公司負責人:林仁喜</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮阿丹里14鄰阿丹160號</td>
+<td class="text-center" data-name="核發日期">113/03/08 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('178a9d71df9a3751d75e1be8150ada27');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$0_BASE_SEQNO" name="$0_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">2</td>
+<input type="HIDDEN" id="P_1_Row_MainTain_Type" name="P_1_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(109)(雲)營建字第00965-02號</span></td>
+<td data-name="起造人">僑馥建築經理股份有限公司 負責人:彭慶 等3人</td>
+<td data-name="設計人">王文立</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('bfdaf278ffa585eaa3f577d99f2ca1b9');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$1_BASE_SEQNO" name="$1_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">3</td>
+<input type="HIDDEN" id="P_2_Row_MainTain_Type" name="P_2_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00017-02號</span></td>
+<td data-name="起造人">川龍開發有限公司負責人:賴宥澄</td>
+<td data-name="設計人">王曉奎</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('e86bc1cfaa6968fc4fc20f36ad590da4');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$2_BASE_SEQNO" name="$2_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">4</td>
+<input type="HIDDEN" id="P_3_Row_MainTain_Type" name="P_3_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)斗南營建字第00027-01號</span></td>
+<td data-name="起造人">丞雲建設有限公司代表人:鄭豊斌</td>
+<td data-name="設計人">莊季森</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/04/01 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d19b337c3a404b525166f7abe71187b6');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$3_BASE_SEQNO" name="$3_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">5</td>
+<input type="HIDDEN" id="P_4_Row_MainTain_Type" name="P_4_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00337-02號</span></td>
+<td data-name="起造人">展揚開發建設有限公司負責人:詩守禎</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/10 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a42c0a6307a0f5fe08256a0f43c6cfa5');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$4_BASE_SEQNO" name="$4_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">6</td>
+<input type="HIDDEN" id="P_5_Row_MainTain_Type" name="P_5_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00338-02號</span></td>
+<td data-name="起造人">展揚開發建設有限公司負責人:詩守禎</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/10 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('1406bfb4736fd30c39789192a0de9645');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$5_BASE_SEQNO" name="$5_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">7</td>
+<input type="HIDDEN" id="P_6_Row_MainTain_Type" name="P_6_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00408-01號</span></td>
+<td data-name="起造人">富旺國際開發股份有限公司負責人:林正雄</td>
+<td data-name="設計人">鄭旭宏</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/03/22 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('f41087673b501e7304f282bad10c715d');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$6_BASE_SEQNO" name="$6_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">8</td>
+<input type="HIDDEN" id="P_7_Row_MainTain_Type" name="P_7_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00467-01號</span></td>
+<td data-name="起造人">另果建築開發有限公司代表人：劉芳男</td>
+<td data-name="設計人">蔡明宏</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/29 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a9f9c160d645035e453796d1b218f2d4');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$7_BASE_SEQNO" name="$7_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">9</td>
+<input type="HIDDEN" id="P_8_Row_MainTain_Type" name="P_8_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00468-01號</span></td>
+<td data-name="起造人">另果建築開發有限公司代表人：劉芳男</td>
+<td data-name="設計人">蔡明宏</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/29 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d08bdb253c79299d49d3e599bdc479b8');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$8_BASE_SEQNO" name="$8_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">10</td>
+<input type="HIDDEN" id="P_9_Row_MainTain_Type" name="P_9_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00469-01號</span></td>
+<td data-name="起造人">另果建築開發有限公司代表人：劉芳男</td>
+<td data-name="設計人">蔡明宏</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/29 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('40e1b8b4c30229e42a7f46a6fcd9c727');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$9_BASE_SEQNO" name="$9_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">11</td>
+<input type="HIDDEN" id="P_10_Row_MainTain_Type" name="P_10_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00522-01號</span></td>
+<td data-name="起造人">興富旺建設有限公司負責人陳聰德</td>
+<td data-name="設計人">張竣欽</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/10 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a38a09f61c0bf395f72bf917df0c8e87');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$10_BASE_SEQNO" name="$10_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">12</td>
+<input type="HIDDEN" id="P_11_Row_MainTain_Type" name="P_11_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00571-01號</span></td>
+<td data-name="起造人">張O民</td>
+<td data-name="設計人">胡峻僥</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/02/01 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('864cf1e28261dd3fd84596dc1a29e45c');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$11_BASE_SEQNO" name="$11_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">13</td>
+<input type="HIDDEN" id="P_12_Row_MainTain_Type" name="P_12_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00659-01號</span></td>
+<td data-name="起造人">陳O品</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/04/19 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('5f19e042761ba4f914e742c3d7870dcb');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$12_BASE_SEQNO" name="$12_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">14</td>
+<input type="HIDDEN" id="P_13_Row_MainTain_Type" name="P_13_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00660-01號</span></td>
+<td data-name="起造人">陳O品</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/04/19 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('10f75e2e3c451961c91865272c5ebd0a');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$13_BASE_SEQNO" name="$13_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">15</td>
+<input type="HIDDEN" id="P_14_Row_MainTain_Type" name="P_14_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00777-02號</span></td>
+<td data-name="起造人">鑫動金屬工業有限公司代表人:曾桂芳</td>
+<td data-name="設計人">黃千倫</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/12 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a3ba5a218e47d5c753a8405ffcc830c9');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$14_BASE_SEQNO" name="$14_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">16</td>
+<input type="HIDDEN" id="P_15_Row_MainTain_Type" name="P_15_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(110)(雲)營建字第00834-02號</span></td>
+<td data-name="起造人">沈O玫</td>
+<td data-name="設計人">賴承平</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/02/27 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('dcd04bc9ead42832453d3c774aecb25f');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$15_BASE_SEQNO" name="$15_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">17</td>
+<input type="HIDDEN" id="P_16_Row_MainTain_Type" name="P_16_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)斗南營建字第00011-01號</span></td>
+<td data-name="起造人">陳O如</td>
+<td data-name="設計人">免</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/03/18 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('1a2dece0db2833b37d8f1d0e1cdcf176');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$16_BASE_SEQNO" name="$16_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">18</td>
+<input type="HIDDEN" id="P_17_Row_MainTain_Type" name="P_17_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)斗南營建字第00012-01號</span></td>
+<td data-name="起造人">台和建設股份有限公司負責人：陳敏雄</td>
+<td data-name="設計人">林昇漢</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/10 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a3ed831775b3dd71ffa40c9d27786489');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$17_BASE_SEQNO" name="$17_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">19</td>
+<input type="HIDDEN" id="P_18_Row_MainTain_Type" name="P_18_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)斗南營建字第00013-01號</span></td>
+<td data-name="起造人">台和建設股份有限公司負責人：陳敏雄</td>
+<td data-name="設計人">林昇漢</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/10 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a3443854357dbc3739aa37bd86566558');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$18_BASE_SEQNO" name="$18_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">20</td>
+<input type="HIDDEN" id="P_19_Row_MainTain_Type" name="P_19_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)斗南營建字第00014-01號</span></td>
+<td data-name="起造人">台和建設股份有限公司負責人：陳敏雄</td>
+<td data-name="設計人">林昇漢</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/10 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('02e56bda44d1321551f1ead2b6b92293');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$19_BASE_SEQNO" name="$19_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">21</td>
+<input type="HIDDEN" id="P_20_Row_MainTain_Type" name="P_20_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)斗南營建字第00027-01號</span></td>
+<td data-name="起造人">台和建設股份有限公司負責人：陳敏雄</td>
+<td data-name="設計人">林昇漢</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/10 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('0bef92bc9ae56c99f37e683cc163bcc8');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$20_BASE_SEQNO" name="$20_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">22</td>
+<input type="HIDDEN" id="P_21_Row_MainTain_Type" name="P_21_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00132-01號</span></td>
+<td data-name="起造人">徐O正 等2人</td>
+<td data-name="設計人">李品豊</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/25 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('bb94491ac00cd4342329b5b8d8ccab97');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$21_BASE_SEQNO" name="$21_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">23</td>
+<input type="HIDDEN" id="P_22_Row_MainTain_Type" name="P_22_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00334-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('8ac61cff0b3a3b4ab1064b4a4e9795f6');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$22_BASE_SEQNO" name="$22_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">24</td>
+<input type="HIDDEN" id="P_23_Row_MainTain_Type" name="P_23_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00335-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('b94ce8b8b1b22173d134e4ee1d0bd06a');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$23_BASE_SEQNO" name="$23_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">25</td>
+<input type="HIDDEN" id="P_24_Row_MainTain_Type" name="P_24_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00336-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('228bbdb4cf13647d62593fe4fae61ed1');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$24_BASE_SEQNO" name="$24_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">26</td>
+<input type="HIDDEN" id="P_25_Row_MainTain_Type" name="P_25_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00337-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a70a9ce293cca1bd1343902c16712637');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$25_BASE_SEQNO" name="$25_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">27</td>
+<input type="HIDDEN" id="P_26_Row_MainTain_Type" name="P_26_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00338-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a972072ff1c3511372709e4ed33008f0');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$26_BASE_SEQNO" name="$26_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">28</td>
+<input type="HIDDEN" id="P_27_Row_MainTain_Type" name="P_27_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00339-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('835e6b29c61adfdef161025a40ae0577');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$27_BASE_SEQNO" name="$27_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">29</td>
+<input type="HIDDEN" id="P_28_Row_MainTain_Type" name="P_28_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00340-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('fe3780a04a738673b4ef0e87d63f625f');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$28_BASE_SEQNO" name="$28_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">30</td>
+<input type="HIDDEN" id="P_29_Row_MainTain_Type" name="P_29_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00341-02號</span></td>
+<td data-name="起造人">陳O良</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('ab7ce38e387ef408a4b667f64733a1cb');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$29_BASE_SEQNO" name="$29_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">31</td>
+<input type="HIDDEN" id="P_30_Row_MainTain_Type" name="P_30_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00342-02號</span></td>
+<td data-name="起造人">陳O良</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('b6e91647829ad4ff47a9a5448ed32daa');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$30_BASE_SEQNO" name="$30_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">32</td>
+<input type="HIDDEN" id="P_31_Row_MainTain_Type" name="P_31_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00343-02號</span></td>
+<td data-name="起造人">陳O良</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('f0b29aa04c634879f0c215ba9d53ce44');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$31_BASE_SEQNO" name="$31_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">33</td>
+<input type="HIDDEN" id="P_32_Row_MainTain_Type" name="P_32_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00344-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('ff3285f109e92a776efed7fb95143253');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$32_BASE_SEQNO" name="$32_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">34</td>
+<input type="HIDDEN" id="P_33_Row_MainTain_Type" name="P_33_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00345-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('0a0e14a650cf91852e2ad69f4e7da462');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$33_BASE_SEQNO" name="$33_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">35</td>
+<input type="HIDDEN" id="P_34_Row_MainTain_Type" name="P_34_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00346-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('457b8a359bafdd6a4bbb23dc01e280a0');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$34_BASE_SEQNO" name="$34_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">36</td>
+<input type="HIDDEN" id="P_35_Row_MainTain_Type" name="P_35_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00347-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('7fc0d6e6fad24181ba1d1b09b13249eb');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$35_BASE_SEQNO" name="$35_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">37</td>
+<input type="HIDDEN" id="P_36_Row_MainTain_Type" name="P_36_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00348-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('3306a07e698c38a8ad86b9510791a28e');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$36_BASE_SEQNO" name="$36_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">38</td>
+<input type="HIDDEN" id="P_37_Row_MainTain_Type" name="P_37_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00349-02號</span></td>
+<td data-name="起造人">住佺有限公司負責人:張英謀</td>
+<td data-name="設計人">趙金城</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d8795f04aeee4cf5b54a805b29cddebf');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$37_BASE_SEQNO" name="$37_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">39</td>
+<input type="HIDDEN" id="P_38_Row_MainTain_Type" name="P_38_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00560-01號</span></td>
+<td data-name="起造人">林O盈</td>
+<td data-name="設計人">張竣欽</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/03/07 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('bd5804d0edee9bcc4965a203c443b1b1');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$38_BASE_SEQNO" name="$38_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">40</td>
+<input type="HIDDEN" id="P_39_Row_MainTain_Type" name="P_39_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00576-01號</span></td>
+<td data-name="起造人">顏O金</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('764663ee84863383ff98d46ff0695309');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$39_BASE_SEQNO" name="$39_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">41</td>
+<input type="HIDDEN" id="P_40_Row_MainTain_Type" name="P_40_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00581-01號</span></td>
+<td data-name="起造人">如京建設有限公司負責人:林軒如 等12人</td>
+<td data-name="設計人">林昇漢</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/22 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('afb7f786ea32ca3dc17baa9af293cc52');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$40_BASE_SEQNO" name="$40_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">42</td>
+<input type="HIDDEN" id="P_41_Row_MainTain_Type" name="P_41_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00683-01號</span></td>
+<td data-name="起造人">峰茂實業股份有限公司負責人:黃秀香</td>
+<td data-name="設計人">邱俊村</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/13 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('26e9ed3defb71260633bca00f890b89c');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$41_BASE_SEQNO" name="$41_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">43</td>
+<input type="HIDDEN" id="P_42_Row_MainTain_Type" name="P_42_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00917-01號</span></td>
+<td data-name="起造人">橙心建設有限公司負責人：熊世雲</td>
+<td data-name="設計人">林稚詠</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d35391564ecd158df7146a484a82b739');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$42_BASE_SEQNO" name="$42_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">44</td>
+<input type="HIDDEN" id="P_43_Row_MainTain_Type" name="P_43_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00918-01號</span></td>
+<td data-name="起造人">橙心建設有限公司負責人：熊世雲</td>
+<td data-name="設計人">林稚詠</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('f6155bf2e050154d8671dbb55daa9410');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$43_BASE_SEQNO" name="$43_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">45</td>
+<input type="HIDDEN" id="P_44_Row_MainTain_Type" name="P_44_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00919-01號</span></td>
+<td data-name="起造人">橙心建設有限公司負責人：熊世雲</td>
+<td data-name="設計人">林稚詠</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('979729bb282e4c95c127bd0cdf5c7c32');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$44_BASE_SEQNO" name="$44_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">46</td>
+<input type="HIDDEN" id="P_45_Row_MainTain_Type" name="P_45_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00920-01號</span></td>
+<td data-name="起造人">橙心建設有限公司負責人：熊世雲</td>
+<td data-name="設計人">林稚詠</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('9817bf04cbe688ea021a5a73a63dc948');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$45_BASE_SEQNO" name="$45_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">47</td>
+<input type="HIDDEN" id="P_46_Row_MainTain_Type" name="P_46_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00921-01號</span></td>
+<td data-name="起造人">橙心建設有限公司負責人：熊世雲</td>
+<td data-name="設計人">林稚詠</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('b37224f81b90f365a4af48fc2bfd5710');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$46_BASE_SEQNO" name="$46_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">48</td>
+<input type="HIDDEN" id="P_47_Row_MainTain_Type" name="P_47_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00922-01號</span></td>
+<td data-name="起造人">橙心建設有限公司負責人：熊世雲</td>
+<td data-name="設計人">林稚詠</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('4453ab200d689cc5856ed73ff258598e');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$47_BASE_SEQNO" name="$47_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">49</td>
+<input type="HIDDEN" id="P_48_Row_MainTain_Type" name="P_48_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00923-01號</span></td>
+<td data-name="起造人">橙心建設有限公司負責人：熊世雲</td>
+<td data-name="設計人">林稚詠</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('02929c57c1d2e89123cc6c1144557aee');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$48_BASE_SEQNO" name="$48_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">50</td>
+<input type="HIDDEN" id="P_49_Row_MainTain_Type" name="P_49_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(111)(雲)營建字第00924-01號</span></td>
+<td data-name="起造人">橙心建設有限公司負責人：熊世雲</td>
+<td data-name="設計人">林稚詠</td>
+<td data-name="建築地址">雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a5c785a79f7ea11b15c56cfd15c883e3');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$49_BASE_SEQNO" name="$49_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">51</td>
+<input type="HIDDEN" id="P_50_Row_MainTain_Type" name="P_50_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(112)斗南營建字第00005-01號</span></td>
+<td data-name="起造人">陳O中</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮田頭里</td>
+<td class="text-center" data-name="核發日期">113/05/20 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('48a18d108995252ee3a7bc9584047fa9');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$50_BASE_SEQNO" name="$50_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">52</td>
+<input type="HIDDEN" id="P_51_Row_MainTain_Type" name="P_51_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(112)斗南營建字第00020-01號</span></td>
+<td data-name="起造人">馮O暉</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630045雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('e3719aafc319c1a40ce7a712d10c183e');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$51_BASE_SEQNO" name="$51_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">53</td>
+<input type="HIDDEN" id="P_52_Row_MainTain_Type" name="P_52_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(112)(雲)營建字第00117-01號</span></td>
+<td data-name="起造人">陳O樺</td>
+<td data-name="設計人">林英智</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/30 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('fd6fa164e7ff6d1308ee53d7e306ed8c');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$52_BASE_SEQNO" name="$52_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">54</td>
+<input type="HIDDEN" id="P_53_Row_MainTain_Type" name="P_53_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(112)(雲)營建字第00323-01號</span></td>
+<td data-name="起造人">金鴻勝建設有限公司</td>
+<td data-name="設計人">沈哲儀</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/07 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('c246796a9215c7cd1750366f0cdca209');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$53_BASE_SEQNO" name="$53_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">55</td>
+<input type="HIDDEN" id="P_54_Row_MainTain_Type" name="P_54_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(112)(雲)營建字第00324-01號</span></td>
+<td data-name="起造人">金鴻勝建設有限公司</td>
+<td data-name="設計人">沈哲儀</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/07 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('080182cd85a0678236c21e91e217a234');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$54_BASE_SEQNO" name="$54_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">56</td>
+<input type="HIDDEN" id="P_55_Row_MainTain_Type" name="P_55_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(112)(雲)營建字第00436-01號</span></td>
+<td data-name="起造人">楊O榳 等2人</td>
+<td data-name="設計人">蔡裕璨</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/04/11 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('c13afe133bb8ccd3c6275f4d9c1e8983');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$55_BASE_SEQNO" name="$55_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">57</td>
+<input type="HIDDEN" id="P_56_Row_MainTain_Type" name="P_56_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(112)(雲)營建字第00437-01號</span></td>
+<td data-name="起造人">愛自己均益股份有限公司 代表人：李家卉</td>
+<td data-name="設計人">謝南陽</td>
+<td data-name="建築地址">630雲林縣斗南鎮東科三路</td>
+<td class="text-center" data-name="核發日期">113/05/09 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('603b38adfdfdb0c644eaf53d4e7fcb67');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$56_BASE_SEQNO" name="$56_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">58</td>
+<input type="HIDDEN" id="P_57_Row_MainTain_Type" name="P_57_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(112)(雲)營建字第00485-01號</span></td>
+<td data-name="起造人">蕭O琦</td>
+<td data-name="設計人">蔡裕璨</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/08 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d309058694be051398a7b6ddaf5753c7');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$57_BASE_SEQNO" name="$57_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">59</td>
+<input type="HIDDEN" id="P_58_Row_MainTain_Type" name="P_58_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(112)(雲)營建字第00533-01號</span></td>
+<td data-name="起造人">許O銘</td>
+<td data-name="設計人">莊季森</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/30 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d8512898e48e829e2ea60aebe5ada840');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$58_BASE_SEQNO" name="$58_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">60</td>
+<input type="HIDDEN" id="P_59_Row_MainTain_Type" name="P_59_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00001號</span></td>
+<td data-name="起造人">台富建設股份有限公司負責人:柯金山</td>
+<td data-name="設計人">呂麗純</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('7bbe43e664f1a2a7c490172a5a402173');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$59_BASE_SEQNO" name="$59_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">61</td>
+<input type="HIDDEN" id="P_60_Row_MainTain_Type" name="P_60_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00002號</span></td>
+<td data-name="起造人">台富建設股份有限公司負責人:柯金山</td>
+<td data-name="設計人">呂麗純</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('5e3e9ad6d517c6637486b6c4ecdeacdb');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$60_BASE_SEQNO" name="$60_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">62</td>
+<input type="HIDDEN" id="P_61_Row_MainTain_Type" name="P_61_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00003號</span></td>
+<td data-name="起造人">台富建設股份有限公司負責人:柯金山</td>
+<td data-name="設計人">呂麗純</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('17ab497f7e2be6b90927afaf6d859661');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$61_BASE_SEQNO" name="$61_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">63</td>
+<input type="HIDDEN" id="P_62_Row_MainTain_Type" name="P_62_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00004號</span></td>
+<td data-name="起造人">台富建設股份有限公司負責人:柯金山 等12人</td>
+<td data-name="設計人">呂麗純</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('85edc53218723453de73e1bbfadd3f96');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$62_BASE_SEQNO" name="$62_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">64</td>
+<input type="HIDDEN" id="P_63_Row_MainTain_Type" name="P_63_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00005號</span></td>
+<td data-name="起造人">九國建設有限公司 負責人：張明勵</td>
+<td data-name="設計人">鄭旭宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('e61d29a6e4d7b952811390237d104e4b');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$63_BASE_SEQNO" name="$63_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">65</td>
+<input type="HIDDEN" id="P_64_Row_MainTain_Type" name="P_64_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00006號</span></td>
+<td data-name="起造人">九國建設有限公司 負責人：張明勵</td>
+<td data-name="設計人">鄭旭宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('8b09bbe676088e2ac23593cf52e1306b');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$64_BASE_SEQNO" name="$64_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">66</td>
+<input type="HIDDEN" id="P_65_Row_MainTain_Type" name="P_65_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00007號</span></td>
+<td data-name="起造人">九國建設有限公司 負責人：張明勵</td>
+<td data-name="設計人">鄭旭宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('04e3e66ec69c9ceacc1949d2399c613b');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$65_BASE_SEQNO" name="$65_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">67</td>
+<input type="HIDDEN" id="P_66_Row_MainTain_Type" name="P_66_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00007號</span></td>
+<td data-name="起造人">李O璇</td>
+<td data-name="設計人">張詔飛</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/08 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('2a46036586eaff10f76ecf57022c575e');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$66_BASE_SEQNO" name="$66_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">68</td>
+<input type="HIDDEN" id="P_67_Row_MainTain_Type" name="P_67_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00008號</span></td>
+<td data-name="起造人">九國建設有限公司 負責人：張明勵</td>
+<td data-name="設計人">鄭旭宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('1e103a9ffe562a632a79313f8fda0094');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$67_BASE_SEQNO" name="$67_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">69</td>
+<input type="HIDDEN" id="P_68_Row_MainTain_Type" name="P_68_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00009號</span></td>
+<td data-name="起造人">九國建設有限公司 負責人：張明勵</td>
+<td data-name="設計人">鄭旭宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('42990707df65c649ede0927961724667');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$68_BASE_SEQNO" name="$68_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">70</td>
+<input type="HIDDEN" id="P_69_Row_MainTain_Type" name="P_69_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00010號</span></td>
+<td data-name="起造人">九國建設有限公司 負責人：張明勵</td>
+<td data-name="設計人">鄭旭宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('3e9e2e29f16a41aca89d665080423768');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$69_BASE_SEQNO" name="$69_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">71</td>
+<input type="HIDDEN" id="P_70_Row_MainTain_Type" name="P_70_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00011號</span></td>
+<td data-name="起造人">九國建設有限公司 負責人：張明勵</td>
+<td data-name="設計人">鄭旭宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('adf21850c9877ec11edb8dc361c409d2');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$70_BASE_SEQNO" name="$70_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">72</td>
+<input type="HIDDEN" id="P_71_Row_MainTain_Type" name="P_71_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00012號</span></td>
+<td data-name="起造人">九國建設有限公司 負責人：張明勵</td>
+<td data-name="設計人">鄭旭宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('6c31969191a9078bcb9bc6f2b9e5dda7');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$71_BASE_SEQNO" name="$71_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">73</td>
+<input type="HIDDEN" id="P_72_Row_MainTain_Type" name="P_72_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00013號</span></td>
+<td data-name="起造人">洪O昱</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/25 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('205344e7afc2c983fc7c20746cd20ab6');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$72_BASE_SEQNO" name="$72_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">74</td>
+<input type="HIDDEN" id="P_73_Row_MainTain_Type" name="P_73_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00014號</span></td>
+<td data-name="起造人">劉O琴</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮新南里7鄰南勢55-28號</td>
+<td class="text-center" data-name="核發日期">113/02/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('1f49eec072ce924f8f0ba3a85209fba0');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$73_BASE_SEQNO" name="$73_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">75</td>
+<input type="HIDDEN" id="P_74_Row_MainTain_Type" name="P_74_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00015號</span></td>
+<td data-name="起造人">楊O亦</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/04/16 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('2f8d73470dede277103cb278999057f0');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$74_BASE_SEQNO" name="$74_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">76</td>
+<input type="HIDDEN" id="P_75_Row_MainTain_Type" name="P_75_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00016號</span></td>
+<td data-name="起造人">曹O來</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/04/19 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('8dd3827e4d4b350c4dd988bd77cc82da');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$75_BASE_SEQNO" name="$75_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">77</td>
+<input type="HIDDEN" id="P_76_Row_MainTain_Type" name="P_76_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00017號</span></td>
+<td data-name="起造人">晶典開發實業有限公司 代表人：林淑觀</td>
+<td data-name="設計人">陳李毅</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/01 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('eadcfce02aaa169e38f1f21ad770ec57');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$76_BASE_SEQNO" name="$76_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">78</td>
+<input type="HIDDEN" id="P_77_Row_MainTain_Type" name="P_77_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00018號</span></td>
+<td data-name="起造人">晶典開發實業有限公司 代表人：林淑觀</td>
+<td data-name="設計人">陳李毅</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/01 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('336ffabb5fd537a6e1e474d6092941fb');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$77_BASE_SEQNO" name="$77_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">79</td>
+<input type="HIDDEN" id="P_78_Row_MainTain_Type" name="P_78_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00019號</span></td>
+<td data-name="起造人">謝O霖</td>
+<td data-name="設計人">林江源</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/03 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('6f2b33aed58e76d904ab98ed470269c4');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$78_BASE_SEQNO" name="$78_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">80</td>
+<input type="HIDDEN" id="P_79_Row_MainTain_Type" name="P_79_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00020號</span></td>
+<td data-name="起造人">正O紙業有限公司</td>
+<td data-name="設計人">黃憲國</td>
+<td data-name="建築地址">630雲林縣斗南鎮舊社里12鄰利台街85號</td>
+<td class="text-center" data-name="核發日期">113/05/21 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('c47cb52609919e934c324f6291c3684d');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$79_BASE_SEQNO" name="$79_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">81</td>
+<input type="HIDDEN" id="P_80_Row_MainTain_Type" name="P_80_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00021號</span></td>
+<td data-name="起造人">湯O眞</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/24 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('0172889ec245184b8ea292fd1370509f');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$80_BASE_SEQNO" name="$80_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">82</td>
+<input type="HIDDEN" id="P_81_Row_MainTain_Type" name="P_81_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00022號</span></td>
+<td data-name="起造人">陳O斌</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮西伯里11鄰西伯77-70號</td>
+<td class="text-center" data-name="核發日期">113/05/29 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('dc7bb0bb7024b8c7e389d78e76b0b906');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$81_BASE_SEQNO" name="$81_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">83</td>
+<input type="HIDDEN" id="P_82_Row_MainTain_Type" name="P_82_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00023號</span></td>
+<td data-name="起造人">許O騰</td>
+<td data-name="設計人">李宏堅</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/25 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('f6da8e9becb9e643f808c0ce09155b26');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$82_BASE_SEQNO" name="$82_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">84</td>
+<input type="HIDDEN" id="P_83_Row_MainTain_Type" name="P_83_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00024號</span></td>
+<td data-name="起造人">黃O明</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('4998a42797a01adaacad014f51c31c42');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$83_BASE_SEQNO" name="$83_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">85</td>
+<input type="HIDDEN" id="P_84_Row_MainTain_Type" name="P_84_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00025號</span></td>
+<td data-name="起造人">齊耘建設開發有限公司 代表人:謝坤霖(A1)</td>
+<td data-name="設計人">黎光樺</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/05 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('5bfaa67db1c367c865a417395e7f06a8');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$84_BASE_SEQNO" name="$84_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">86</td>
+<input type="HIDDEN" id="P_85_Row_MainTain_Type" name="P_85_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00026號</span></td>
+<td data-name="起造人">齊耘建設開發有限公司 代表人:謝坤霖(A2)</td>
+<td data-name="設計人">黎光樺</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/05 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('ac87bc3a7e2b0a249b98ad28648f5c0a');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$85_BASE_SEQNO" name="$85_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">87</td>
+<input type="HIDDEN" id="P_86_Row_MainTain_Type" name="P_86_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00027號</span></td>
+<td data-name="起造人">齊耘建設開發有限公司 代表人:謝坤霖(A3)</td>
+<td data-name="設計人">黎光樺</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/05 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('e0b64a78204d45d5f3aa853bdaf91bc5');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$86_BASE_SEQNO" name="$86_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">88</td>
+<input type="HIDDEN" id="P_87_Row_MainTain_Type" name="P_87_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00028號</span></td>
+<td data-name="起造人">齊耘建設開發有限公司 代表人:謝坤霖(A5)</td>
+<td data-name="設計人">黎光樺</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/05 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('0249c24b5635fb062af68eb9eab5a313');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$87_BASE_SEQNO" name="$87_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">89</td>
+<input type="HIDDEN" id="P_88_Row_MainTain_Type" name="P_88_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00028號</span></td>
+<td data-name="起造人">振榮開發股份有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('ed8b69da21da082932a85f809a9b22b8');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$88_BASE_SEQNO" name="$88_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">90</td>
+<input type="HIDDEN" id="P_89_Row_MainTain_Type" name="P_89_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00029號</span></td>
+<td data-name="起造人">齊耘建設開發有限公司 代表人:謝坤霖(B1)</td>
+<td data-name="設計人">黎光樺</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/05 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('f20b983fd9eea64711bee59215fe4e37');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$89_BASE_SEQNO" name="$89_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">91</td>
+<input type="HIDDEN" id="P_90_Row_MainTain_Type" name="P_90_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00030號</span></td>
+<td data-name="起造人">齊耘建設開發有限公司 代表人:謝坤霖(B2)</td>
+<td data-name="設計人">黎光樺</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/05 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('7f1f555e9d61f7a0ed0b6416665b40b3');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$90_BASE_SEQNO" name="$90_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">92</td>
+<input type="HIDDEN" id="P_91_Row_MainTain_Type" name="P_91_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00031號</span></td>
+<td data-name="起造人">齊耘建設開發有限公司 代表人:謝坤霖(B3)</td>
+<td data-name="設計人">黎光樺</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/05 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('8fdc542a6472ead92b800a6e0656456a');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$91_BASE_SEQNO" name="$91_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">93</td>
+<input type="HIDDEN" id="P_92_Row_MainTain_Type" name="P_92_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00032號</span></td>
+<td data-name="起造人">齊耘建設開發有限公司 代表人:謝坤霖(B5)</td>
+<td data-name="設計人">黎光樺</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/05 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('77f08cb8fbd901a65ed39c6c57051b03');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$92_BASE_SEQNO" name="$92_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">94</td>
+<input type="HIDDEN" id="P_93_Row_MainTain_Type" name="P_93_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00033號</span></td>
+<td data-name="起造人">鴻廷開發建設有限公司  負責人:陳淑眞</td>
+<td data-name="設計人">黃克翊</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/21 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a74e2af967f2807ab15a9401731dcb4c');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$93_BASE_SEQNO" name="$93_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">95</td>
+<input type="HIDDEN" id="P_94_Row_MainTain_Type" name="P_94_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00034號</span></td>
+<td data-name="起造人"></td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/26 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d7117eb8247a8232f7fdb200426ed8e5');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$94_BASE_SEQNO" name="$94_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">96</td>
+<input type="HIDDEN" id="P_95_Row_MainTain_Type" name="P_95_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)斗南營建字第00034號</span></td>
+<td data-name="起造人">洪O益</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/28 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('915f6857cdfc857521e180f2135e956e');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$95_BASE_SEQNO" name="$95_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">97</td>
+<input type="HIDDEN" id="P_96_Row_MainTain_Type" name="P_96_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00039號</span></td>
+<td data-name="起造人">連O翔</td>
+<td data-name="設計人">李豐村</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/18 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('6f92b0677b33cde75f9aa56e742c8cb6');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$96_BASE_SEQNO" name="$96_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">98</td>
+<input type="HIDDEN" id="P_97_Row_MainTain_Type" name="P_97_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00040號</span></td>
+<td data-name="起造人">連O凱</td>
+<td data-name="設計人">李豐村</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/18 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('5cb1c972eafa3734f18f1b47fa4d5dc7');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$97_BASE_SEQNO" name="$97_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">99</td>
+<input type="HIDDEN" id="P_98_Row_MainTain_Type" name="P_98_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00041號</span></td>
+<td data-name="起造人">連O昌</td>
+<td data-name="設計人">李豐村</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/18 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d1984ae7afe0980040dc9c4f26557214');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$98_BASE_SEQNO" name="$98_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">100</td>
+<input type="HIDDEN" id="P_99_Row_MainTain_Type" name="P_99_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00047號</span></td>
+<td data-name="起造人">景勝開發建設股份有限公司 代表人：張清川</td>
+<td data-name="設計人">楊尚衡</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('df8e251970561797a991d0fa96a5fc72');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$99_BASE_SEQNO" name="$99_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">101</td>
+<input type="HIDDEN" id="P_100_Row_MainTain_Type" name="P_100_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00054號</span></td>
+<td data-name="起造人">蔡O珠 等3人</td>
+<td data-name="設計人">張竣欽</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/24 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('c7b22f5b9e7257beb3f518d2c24d1767');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$100_BASE_SEQNO" name="$100_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">102</td>
+<input type="HIDDEN" id="P_101_Row_MainTain_Type" name="P_101_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00060號</span></td>
+<td data-name="起造人">凱力有限公司</td>
+<td data-name="設計人">李明遠</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/01/30 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a32b869a8020adba824d08131192f7d4');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$101_BASE_SEQNO" name="$101_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">103</td>
+<input type="HIDDEN" id="P_102_Row_MainTain_Type" name="P_102_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00068號</span></td>
+<td data-name="起造人">陳O妮</td>
+<td data-name="設計人">黃克翊</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/02/06 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('0d7a8537f3d111d51c980ede2cd33756');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$102_BASE_SEQNO" name="$102_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">104</td>
+<input type="HIDDEN" id="P_103_Row_MainTain_Type" name="P_103_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00071號</span></td>
+<td data-name="起造人">詠耀開發有限公司</td>
+<td data-name="設計人">張詔飛</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/02/06 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('6dec2fe3b340117c48592c4d67d64547');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$103_BASE_SEQNO" name="$103_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">105</td>
+<input type="HIDDEN" id="P_104_Row_MainTain_Type" name="P_104_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00081號</span></td>
+<td data-name="起造人">雲林縣斗南鎮農會</td>
+<td data-name="設計人">洪裕強</td>
+<td data-name="建築地址">630雲林縣斗南鎮中天段857地號</td>
+<td class="text-center" data-name="核發日期">113/02/16 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d1427bdea87446ed80a2cd2884fd1eb4');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$104_BASE_SEQNO" name="$104_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">106</td>
+<input type="HIDDEN" id="P_105_Row_MainTain_Type" name="P_105_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00145號</span></td>
+<td data-name="起造人">運承建設股份有限公司</td>
+<td data-name="設計人">李宏堅</td>
+<td data-name="建築地址">630雲林縣斗南鎮建國段</td>
+<td class="text-center" data-name="核發日期">113/03/13 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('10effbab6b5b9ced8f2c03e5dcf906bc');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$105_BASE_SEQNO" name="$105_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">107</td>
+<input type="HIDDEN" id="P_106_Row_MainTain_Type" name="P_106_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00157號</span></td>
+<td data-name="起造人">高O德</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/03/16 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('8233c04769eefc738560284a6c3f5432');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$106_BASE_SEQNO" name="$106_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">108</td>
+<input type="HIDDEN" id="P_107_Row_MainTain_Type" name="P_107_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00158號</span></td>
+<td data-name="起造人">吳O庭</td>
+<td data-name="設計人">李宏堅</td>
+<td data-name="建築地址">630雲林縣斗南鎮新崙里</td>
+<td class="text-center" data-name="核發日期">113/03/15 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('c8444ca4631aa3f2c105a988004a4cb9');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$107_BASE_SEQNO" name="$107_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">109</td>
+<input type="HIDDEN" id="P_108_Row_MainTain_Type" name="P_108_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00170號</span></td>
+<td data-name="起造人">陳O義</td>
+<td data-name="設計人">郭永淦</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/03/22 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('fdb11eb9fac97e977ff28f1a5bbbce55');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$108_BASE_SEQNO" name="$108_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">110</td>
+<input type="HIDDEN" id="P_109_Row_MainTain_Type" name="P_109_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00171號</span></td>
+<td data-name="起造人">陳O敬</td>
+<td data-name="設計人">郭永淦</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/03/22 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('4d2ccb5f2d914cd9bcf3685ea117641d');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$109_BASE_SEQNO" name="$109_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">111</td>
+<input type="HIDDEN" id="P_110_Row_MainTain_Type" name="P_110_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00172號</span></td>
+<td data-name="起造人">許O年</td>
+<td data-name="設計人">楊尚衡</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/03/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a49d3bd356aebf3d0ae31e5251f3fc0f');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$110_BASE_SEQNO" name="$110_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">112</td>
+<input type="HIDDEN" id="P_111_Row_MainTain_Type" name="P_111_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00180號</span></td>
+<td data-name="起造人">張O豪</td>
+<td data-name="設計人">張漢維</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/03/19 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d0ee60535272309f495f87d1c19dfdb8');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$111_BASE_SEQNO" name="$111_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">113</td>
+<input type="HIDDEN" id="P_112_Row_MainTain_Type" name="P_112_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00207號</span></td>
+<td data-name="起造人">黃O純</td>
+<td data-name="設計人">李豐村</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/04/12 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('48a4160b4e7f7ef212b76b5e6c440e22');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$112_BASE_SEQNO" name="$112_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">114</td>
+<input type="HIDDEN" id="P_113_Row_MainTain_Type" name="P_113_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00215號</span></td>
+<td data-name="起造人">阮O玄</td>
+<td data-name="設計人">李豐村</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/04/16 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('b9dd5f926b8bdc06c26adfd2211a6039');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$113_BASE_SEQNO" name="$113_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">115</td>
+<input type="HIDDEN" id="P_114_Row_MainTain_Type" name="P_114_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00243號</span></td>
+<td data-name="起造人">富士鮮品股份有限公司</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/04/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('de7a859c9572988de124633d9bc521a0');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$114_BASE_SEQNO" name="$114_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">116</td>
+<input type="HIDDEN" id="P_115_Row_MainTain_Type" name="P_115_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00249號</span></td>
+<td data-name="起造人">李O緻</td>
+<td data-name="設計人">李宏堅</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/04/24 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('c34b6fc94cc10a0a1f0079b6359a57b5');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$115_BASE_SEQNO" name="$115_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">117</td>
+<input type="HIDDEN" id="P_116_Row_MainTain_Type" name="P_116_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00347號</span></td>
+<td data-name="起造人">楊O乙</td>
+<td data-name="設計人">江行健</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/27 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('1997bc228757af8b8292d2e0fe114225');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$116_BASE_SEQNO" name="$116_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">118</td>
+<input type="HIDDEN" id="P_117_Row_MainTain_Type" name="P_117_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00354號</span></td>
+<td data-name="起造人">昀承建設有限公司 負責人:葉拴玉</td>
+<td data-name="設計人">沈哲儀</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/30 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d8d19107eb170b0127f799bd2ec003d4');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$117_BASE_SEQNO" name="$117_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">119</td>
+<input type="HIDDEN" id="P_118_Row_MainTain_Type" name="P_118_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00358號</span></td>
+<td data-name="起造人">姮興開發股份有限公司</td>
+<td data-name="設計人">張竣欽</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/30 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('b7a91a7f74668934722294c9913a84e1');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$118_BASE_SEQNO" name="$118_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">120</td>
+<input type="HIDDEN" id="P_119_Row_MainTain_Type" name="P_119_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00359號</span></td>
+<td data-name="起造人">姮興開發股份有限公司</td>
+<td data-name="設計人">張竣欽</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/30 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('9a4c4ea72984d77fc6b3e026fb3601d8');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$119_BASE_SEQNO" name="$119_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">121</td>
+<input type="HIDDEN" id="P_120_Row_MainTain_Type" name="P_120_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00360號</span></td>
+<td data-name="起造人">姮興開發股份有限公司</td>
+<td data-name="設計人">張竣欽</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/30 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d99c978c627045dae05dfaf799e6633c');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$120_BASE_SEQNO" name="$120_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">122</td>
+<input type="HIDDEN" id="P_121_Row_MainTain_Type" name="P_121_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00361號</span></td>
+<td data-name="起造人">姮興開發股份有限公司</td>
+<td data-name="設計人">張竣欽</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/30 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('f8fa4e86162ef5d88909b11d51351664');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$121_BASE_SEQNO" name="$121_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">123</td>
+<input type="HIDDEN" id="P_122_Row_MainTain_Type" name="P_122_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00362號</span></td>
+<td data-name="起造人">姮興開發股份有限公司</td>
+<td data-name="設計人">張竣欽</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/05/30 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('2ddf32f97f631ea2db981a81e5f5e6a8');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$122_BASE_SEQNO" name="$122_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">124</td>
+<input type="HIDDEN" id="P_123_Row_MainTain_Type" name="P_123_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00378號</span></td>
+<td data-name="起造人">晉笙建設有限公司</td>
+<td data-name="設計人">周育賢</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/06 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d3d2b482ff20c46d5c3bcabf41f718e4');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$123_BASE_SEQNO" name="$123_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">125</td>
+<input type="HIDDEN" id="P_124_Row_MainTain_Type" name="P_124_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00379號</span></td>
+<td data-name="起造人">晉笙建設有限公司</td>
+<td data-name="設計人">周育賢</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/06 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('e3e201f0c6adcab69f45b27da3cdb264');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$124_BASE_SEQNO" name="$124_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">126</td>
+<input type="HIDDEN" id="P_125_Row_MainTain_Type" name="P_125_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00380號</span></td>
+<td data-name="起造人">晉笙建設有限公司</td>
+<td data-name="設計人">周育賢</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/06 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('c368e93c7ee9cc6b069eaafefc69f7b2');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$125_BASE_SEQNO" name="$125_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">127</td>
+<input type="HIDDEN" id="P_126_Row_MainTain_Type" name="P_126_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00383號</span></td>
+<td data-name="起造人">張O瑜</td>
+<td data-name="設計人">林木榮</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/12 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('8472f51088570ee06011b3272be788a5');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$126_BASE_SEQNO" name="$126_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">128</td>
+<input type="HIDDEN" id="P_127_Row_MainTain_Type" name="P_127_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00409號</span></td>
+<td data-name="起造人">上北建設有限公司 等5人</td>
+<td data-name="設計人">林英智</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/06/25 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('fe758d5f4f1e04bada4d34227d614cf4');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$127_BASE_SEQNO" name="$127_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">129</td>
+<input type="HIDDEN" id="P_128_Row_MainTain_Type" name="P_128_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00477號</span></td>
+<td data-name="起造人">奇峰建設有限公司 負責人:易城瑋</td>
+<td data-name="設計人">高修一</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/18 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('eeb0a7aefa865b49e2ee4510fc4555e7');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$128_BASE_SEQNO" name="$128_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">130</td>
+<input type="HIDDEN" id="P_129_Row_MainTain_Type" name="P_129_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00490號</span></td>
+<td data-name="起造人">許O英</td>
+<td data-name="設計人">黃克翊</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/07/16 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('0b7475463d4c7a935a1a6d9eb190fb54');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$129_BASE_SEQNO" name="$129_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">131</td>
+<input type="HIDDEN" id="P_130_Row_MainTain_Type" name="P_130_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00510號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('c7cc2776ed773d80dc7643879ed76b71');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$130_BASE_SEQNO" name="$130_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">132</td>
+<input type="HIDDEN" id="P_131_Row_MainTain_Type" name="P_131_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00511號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('b8fd9b18d323c2e5fa585f5d9a7f0337');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$131_BASE_SEQNO" name="$131_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">133</td>
+<input type="HIDDEN" id="P_132_Row_MainTain_Type" name="P_132_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00512號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('a75a953f1a5daf887f26c5b2c9f0ff9b');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$132_BASE_SEQNO" name="$132_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">134</td>
+<input type="HIDDEN" id="P_133_Row_MainTain_Type" name="P_133_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00513號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('f9e98b582646658e8ef527dddf07e298');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$133_BASE_SEQNO" name="$133_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">135</td>
+<input type="HIDDEN" id="P_134_Row_MainTain_Type" name="P_134_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00514號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('3c4474f0fd7823aefe122e5998c6de4e');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$134_BASE_SEQNO" name="$134_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">136</td>
+<input type="HIDDEN" id="P_135_Row_MainTain_Type" name="P_135_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00515號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('71468bad8d499a0f9edb13d98b100783');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$135_BASE_SEQNO" name="$135_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">137</td>
+<input type="HIDDEN" id="P_136_Row_MainTain_Type" name="P_136_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00516號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('688451236b2c815904d508b8367db794');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$136_BASE_SEQNO" name="$136_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">138</td>
+<input type="HIDDEN" id="P_137_Row_MainTain_Type" name="P_137_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00517號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('32c84c60a504b7771d7c192db7c67158');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$137_BASE_SEQNO" name="$137_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">139</td>
+<input type="HIDDEN" id="P_138_Row_MainTain_Type" name="P_138_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00518號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('ed288eaed3744f70e79930a2d49246f9');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$138_BASE_SEQNO" name="$138_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">140</td>
+<input type="HIDDEN" id="P_139_Row_MainTain_Type" name="P_139_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00519號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('67bff06e889e39f069f3afaa56ed5b2d');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$139_BASE_SEQNO" name="$139_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">141</td>
+<input type="HIDDEN" id="P_140_Row_MainTain_Type" name="P_140_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00520號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('78f18962ff6db2f07fb290d5d91be98c');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$140_BASE_SEQNO" name="$140_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">142</td>
+<input type="HIDDEN" id="P_141_Row_MainTain_Type" name="P_141_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00521號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('102e50fc4ae7cdd5f29d234887963640');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$141_BASE_SEQNO" name="$141_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">143</td>
+<input type="HIDDEN" id="P_142_Row_MainTain_Type" name="P_142_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00522號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('d02023d35247c423b1ff8c567db2cbc5');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$142_BASE_SEQNO" name="$142_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">144</td>
+<input type="HIDDEN" id="P_143_Row_MainTain_Type" name="P_143_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00523號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('7367764996bea1546271b930a24e8b41');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$143_BASE_SEQNO" name="$143_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">145</td>
+<input type="HIDDEN" id="P_144_Row_MainTain_Type" name="P_144_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00524號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('07106311cb03ec359fdc4b2c461b4abc');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$144_BASE_SEQNO" name="$144_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">146</td>
+<input type="HIDDEN" id="P_145_Row_MainTain_Type" name="P_145_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00525號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('fd7510723a01ad06f143ded3410ed97a');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$145_BASE_SEQNO" name="$145_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">147</td>
+<input type="HIDDEN" id="P_146_Row_MainTain_Type" name="P_146_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00526號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('568456b35703e281578c2dddfc37a3f5');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$146_BASE_SEQNO" name="$146_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">148</td>
+<input type="HIDDEN" id="P_147_Row_MainTain_Type" name="P_147_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00527號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('e722161d5fd857dbc155f8b54e07ceab');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$147_BASE_SEQNO" name="$147_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">149</td>
+<input type="HIDDEN" id="P_148_Row_MainTain_Type" name="P_148_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00528號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('8b47ed488b1c4da1bc8435ce1e1f494a');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$148_BASE_SEQNO" name="$148_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">150</td>
+<input type="HIDDEN" id="P_149_Row_MainTain_Type" name="P_149_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00529號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('4252294bcac082afdaea2b36c49e76e8');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$149_BASE_SEQNO" name="$149_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">151</td>
+<input type="HIDDEN" id="P_150_Row_MainTain_Type" name="P_150_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00530號</span></td>
+<td data-name="起造人">正竑建設有限公司</td>
+<td data-name="設計人">陳信宏</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/02 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('20e03743d5eb4158d2702d1c1d1460a0');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$150_BASE_SEQNO" name="$150_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">152</td>
+<input type="HIDDEN" id="P_151_Row_MainTain_Type" name="P_151_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00538號</span></td>
+<td data-name="起造人">財團法人八德教育基金會</td>
+<td data-name="設計人">張詔飛</td>
+<td data-name="建築地址">630雲林縣斗南鎮田南一路</td>
+<td class="text-center" data-name="核發日期">113/08/08 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('17623323384f60ca35059d634b5f79fd');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$151_BASE_SEQNO" name="$151_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">153</td>
+<input type="HIDDEN" id="P_152_Row_MainTain_Type" name="P_152_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00539號</span></td>
+<td data-name="起造人">姮興開發股份有限公司</td>
+<td data-name="設計人">張竣欽</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/08 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('8f7ca484838b4ee9d23ea6ea3e7822fa');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$152_BASE_SEQNO" name="$152_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">154</td>
+<input type="HIDDEN" id="P_153_Row_MainTain_Type" name="P_153_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00542號</span></td>
+<td data-name="起造人">歐O政</td>
+<td data-name="設計人">李宏堅</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/19 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('e23132c0b00d317465cf9da7b550a3a0');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$153_BASE_SEQNO" name="$153_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">155</td>
+<input type="HIDDEN" id="P_154_Row_MainTain_Type" name="P_154_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00548號</span></td>
+<td data-name="起造人">林O郎</td>
+<td data-name="設計人">曾凱瀚</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/19 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('3b067317b32c45d0d32562c1e0aee479');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$154_BASE_SEQNO" name="$154_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">156</td>
+<input type="HIDDEN" id="P_155_Row_MainTain_Type" name="P_155_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00549號</span></td>
+<td data-name="起造人">林O郎</td>
+<td data-name="設計人">曾凱瀚</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/19 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('7cebfd8b353f268cbfa969ca171f420e');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$155_BASE_SEQNO" name="$155_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">157</td>
+<input type="HIDDEN" id="P_156_Row_MainTain_Type" name="P_156_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00550號</span></td>
+<td data-name="起造人">林O郎</td>
+<td data-name="設計人">曾凱瀚</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/19 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('9c8fc3e988e5fd96c726c2ca1a55e32c');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$156_BASE_SEQNO" name="$156_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">158</td>
+<input type="HIDDEN" id="P_157_Row_MainTain_Type" name="P_157_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00552號</span></td>
+<td data-name="起造人">宏有建設開發有限公司</td>
+<td data-name="設計人">李宏堅</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/22 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('4216989b7db7669b1fdec9d81abcf549');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$157_BASE_SEQNO" name="$157_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">159</td>
+<input type="HIDDEN" id="P_158_Row_MainTain_Type" name="P_158_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00553號</span></td>
+<td data-name="起造人">宏有建設開發有限公司</td>
+<td data-name="設計人">李宏堅</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/22 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('9caa61917147dd02918fed266d68f18b');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$158_BASE_SEQNO" name="$158_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">160</td>
+<input type="HIDDEN" id="P_159_Row_MainTain_Type" name="P_159_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00554號</span></td>
+<td data-name="起造人">宏有建設開發有限公司</td>
+<td data-name="設計人">李宏堅</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/22 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('6618d99f30b554c39fb53a546051b353');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$159_BASE_SEQNO" name="$159_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">161</td>
+<input type="HIDDEN" id="P_160_Row_MainTain_Type" name="P_160_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00555號</span></td>
+<td data-name="起造人">宏有建設開發有限公司</td>
+<td data-name="設計人">李宏堅</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/22 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('6e63b1fd6a17b3c2a366bd27d9623c47');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$160_BASE_SEQNO" name="$160_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">162</td>
+<input type="HIDDEN" id="P_161_Row_MainTain_Type" name="P_161_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00556號</span></td>
+<td data-name="起造人">宏有建設開發有限公司</td>
+<td data-name="設計人">李宏堅</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/22 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('3c330496c9fb7f2ca9c41bf6992e206e');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$161_BASE_SEQNO" name="$161_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">163</td>
+<input type="HIDDEN" id="P_162_Row_MainTain_Type" name="P_162_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00557號</span></td>
+<td data-name="起造人">宏有建設開發有限公司</td>
+<td data-name="設計人">李宏堅</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/22 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('770739f060b863c33157641fc82cad08');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$162_BASE_SEQNO" name="$162_BASE_SEQNO" value="">
+</tr>
+<tr>
+<td class="text-right" data-name="序號" style="width: 5%; text-align: center">164</td>
+<input type="HIDDEN" id="P_163_Row_MainTain_Type" name="P_163_Row_MainTain_Type" value="S"><td class="text-center" data-name="執照號碼"><span>(113)(雲)營建字第00559號</span></td>
+<td data-name="起造人">沈O煌</td>
+<td data-name="設計人">免建築師</td>
+<td data-name="建築地址">630雲林縣斗南鎮</td>
+<td class="text-center" data-name="核發日期">113/08/23 </td>
+<td class="text-center" data-name="檢視">
+<button class="btn btn-gy" type="BUTTON" title="明細" id="182f387ee55bdbd3db290121dc77292c" name="182f387ee55bdbd3db290121dc77292c" onclick="run_button('1c9e29fba1829739e42f6bbf2b19afd5');" value="明細">明細</button> </td>
+<input type="HIDDEN" id="$163_BASE_SEQNO" name="$163_BASE_SEQNO" value="">
+</tr>
+</tbody>
+<tbody><tr style="display:none"></tr></tbody>
+</table></body></html>
